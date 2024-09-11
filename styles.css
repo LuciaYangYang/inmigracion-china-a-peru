@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(247, 191, 239);
+}
+div {
+  align-items: center;
+  margin: 10px;
+  justify-content: center;
+  display: flex;
+}
+.titulo p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+  color: rgb(71, 49, 20);
+  background: rgb(157, 205, 219);
+  border-radius: 50px;
+}
+.subtitulo {
+  font-size: 35px;
+  font-family: "comic sans ms";
+  margin: 20px;
+  text-align: justify;
+  color: #741b36;
+}
+.explicacion {
+  font-size: 20px;
+  font-family: "comic sans ms";
+  margin: 50px;
+  text-align: justify;
+  color: #7e381c;
+}
+img {
+  width: 650px;
+  margin: 40px;
+  border: 10px;
+  border-radius: 50px;
+}
+.enlace p {
+  font-size: 30px;
+  font-family: "lobster";
+  color: #324339;
+}
+.subtitulo img {
+  width: 200px;
+}
